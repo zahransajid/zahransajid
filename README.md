@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Zahran Sajid
-- Currently a first year @ VIT CHennai
+- Currently a first year @ VIT Chennai
 - This profile is still very much a work in progress
 
 <!---
