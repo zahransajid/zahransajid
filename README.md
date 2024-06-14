@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Zahran Sajid
-- Currently a second year @ VIT Chennai
-- This profile is still very much a work in progress
+- Currently a final year @ VIT Chennai
+- I work on robotics, machine learning and computer graphics related projects and post some of it here!
